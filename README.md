@@ -12,3 +12,6 @@ you can save those books for later, or click on the book itself and be taken to 
 
 ## Deployed App
 [Book Search](https://book-search-judno.herokuapp.com/)
+
+## Screenshot
+<img width="951" alt="book search" src="https://user-images.githubusercontent.com/69154965/108627434-b03cc600-74a9-11eb-876e-c7d112034408.png">
